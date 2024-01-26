@@ -51,7 +51,7 @@ class Configuration
             'notice'                   => '',
             'languageselection'        => false,
             'languagedefault'          => 'fr',
-            '30min'                    => 1800,
+            '30min'                    => 1800, 
             'urlshortener'             => '',
             'qrcode'                   => true,
             'icon'                     => 'identicon',

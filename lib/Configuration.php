@@ -51,7 +51,6 @@ class Configuration
             'notice'                   => '',
             'languageselection'        => false,
             'languagedefault'          => 'fr',
-            '30min'                    => 1800, 
             'urlshortener'             => '',
             'qrcode'                   => true,
             'icon'                     => 'identicon',
@@ -66,6 +65,7 @@ class Configuration
         'expire_options' => array(
             '5min'   => 300,
             '10min'  => 600,
+            '30min'  => 1800,
             '1hour'  => 3600,
             '1day'   => 86400,
             '1week'  => 604800,
